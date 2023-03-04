@@ -1,12 +1,12 @@
 import { useEffect, useRef, useState } from "react";
 import "./App.css";
 import Card from "./components/Card";
-import salad from "./components/salad.png";
-import softDrink from "./components/soft-drink.png";
-import dish from "./components/dish.png";
-import fastFood from "./components/fastFood.png";
-import eat from "./components/eat.jpg";
-import application from "./components/application.png";
+import salad from "./components/salad.svg";
+import softDrink from "./components/soft-drinks.svg";
+import dish from "./components/dish.svg";
+import fastFood from "./components/fastFood.svg";
+import eat from "./components/eat.svg";
+import application from "./components/application.svg";
 import Timer from "./components/Timer";
 import { useWindowSize } from "react-use";
 import Confetti from "react-confetti";
